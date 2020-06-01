@@ -1,0 +1,11 @@
+html{
+	position: relative;
+}
+
+section, footer{
+	padding: 20px 0;
+}
+
+.slide {
+	padding-top: 0px;
+}
